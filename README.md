@@ -42,6 +42,3 @@
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-addweb&show_icons=true&locale=en&layout=compact" alt="jatin-addweb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin-addweb&show_icons=true&locale=en" alt="jatin-addweb" /></p>
